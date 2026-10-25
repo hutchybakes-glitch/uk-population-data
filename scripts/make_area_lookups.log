@@ -1,0 +1,54 @@
+Downloading live UK postcodes (max OBJECTID 2,729,090) in 12 ranges, 3 at a time...
+  range 227,424-454,848: 146,967 postcodes
+  range 0-227,424: 147,840 postcodes
+  range 454,848-682,272: 158,764 postcodes
+  range 682,272-909,697: 157,034 postcodes
+  range 909,697-1,137,121: 149,777 postcodes
+  range 1,137,121-1,364,545: 150,780 postcodes
+  range 1,591,969-1,819,393: 146,034 postcodes
+  range 1,364,545-1,591,969: 147,674 postcodes
+  range 1,819,393-2,046,818: 149,809 postcodes
+  range 2,046,818-2,274,242: 145,232 postcodes
+  range 2,274,242-2,501,666: 162,314 postcodes
+  range 2,501,666-2,729,090: 135,342 postcodes
+  1,797,567 live UK postcodes with coordinates
+place_index: 72,744 places, 72,740 with a council, 36,132 with a town
+council_lookup: 361 councils
+  no postcodes in E63007103 Brunton
+  no postcodes in E63007435 Bowes
+  no postcodes in E63007824 Esholt
+  no postcodes in E63007959 Bottom of Hutton
+  no postcodes in E63008685 Tunstead
+  no postcodes in E63009084 Edlaston
+  no postcodes in E63009133 Bicker Gauntlet
+  no postcodes in E63009303 Sleap
+  no postcodes in E63009993 Tibenham
+  no postcodes in E63010144 Brington
+  no postcodes in E63010177 Fakenham Magna
+  no postcodes in E63010413 Long Buckby Wharf
+  no postcodes in E63011064 Barford St John
+  no postcodes in E63011191 St Ippolyts
+  no postcodes in E63011203 Oak Corner
+  no postcodes in E63011469 Brimpsfield
+  no postcodes in E63011757 Dunfield
+  no postcodes in E63012151 Welford (West Berkshire)
+  no postcodes in E63013604 Smeatharpe
+  no postcodes in E63013752 Matchams
+  no postcodes in E63013903 Shortacombe
+  no postcodes in E63014139 Cambrose
+  no postcodes in E63014230 Traboe
+  no postcodes in E63014234 Mullion Cove
+  no postcodes in K08000011 Chester
+  no postcodes in K08000012 Holt (Wrexham)
+  no postcodes in K08000013 Threapwood
+  no postcodes in K08000014 Tallarn Green
+  no postcodes in K08000015 Llanymynech
+  no postcodes in K08000016 Churchstoke
+  no postcodes in K08000017 Knighton
+  no postcodes in K08000018 Presteigne
+  no postcodes in K08000019 Hay-on-Wye
+  no postcodes in K08000020 Lower Redbrook
+  no postcodes in W45000965 Cross Hands
+  no postcodes in W45001020 Marloes
+town_lookup: 7775 towns
+Done
