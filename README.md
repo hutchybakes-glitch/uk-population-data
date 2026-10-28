@@ -12,3 +12,7 @@ Prebuilt lookups for the **UK Population Watch** Power BI report. Power BI reads
 Rebuild yearly: `python scripts/make_area_lookups.py` then `python scripts/make_areas.py`.
 
 **Licence:** Source: Office for National Statistics licensed under the Open Government Licence v3.0. Contains OS data © Crown copyright and database right 2026. Contains Royal Mail data © Royal Mail copyright and database right 2026.
+
+## Licence
+
+The code is MIT licensed (see [LICENSE](LICENSE)). The data belongs to its publishers and is used under their licences, credited above.
