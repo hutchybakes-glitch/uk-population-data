@@ -33,7 +33,7 @@ MEASURES = ["population", "births", "deaths", "internal_net", "international_in"
 # One web session for every call, naming the project as the client
 WEB = requests.Session()
 # The client name sent with each request
-WEB.headers["User-Agent"] = "UK Population Watch data script (github.com/hutchybakes-glitch/uk-population-data)"
+WEB.headers["User-Agent"] = "UK Population Watch data script (github.com/swhutchinson/uk-population-data)"
 
 
 # Read one ONS page as JSON
