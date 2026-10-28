@@ -1,2 +1,5 @@
 scripts/.cache/
 __pycache__/
+
+# Script logs
+*.log
